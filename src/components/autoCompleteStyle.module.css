@@ -1,0 +1,28 @@
+.autocomplete{
+    position: relative;
+    width: 400px;
+}
+.autocomplete input{
+    width: 400px;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.searchList{
+    width: 400px;
+    padding: 10px;
+    bottom: -35px;
+    left: 0;
+    background-color: transparent;
+    color: white;
+    border-radius: 5px;
+
+}
+.listItem{
+    padding: 10px;
+    background-color: white;
+    color: black;
+    margin-bottom: 5px;
+    border-radius: 5px;
+
+}
